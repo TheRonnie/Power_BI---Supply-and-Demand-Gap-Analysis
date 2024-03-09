@@ -1,0 +1,73 @@
+﻿request hours,Count of Request id,Count of Pickup point,Status,First Pickup point
+00,40,40,Trip Completed,Airport
+00,56,56,No Cars Available,Airport
+00,3,3,Cancelled,City
+01,25,25,Trip Completed,Airport
+01,56,56,No Cars Available,Airport
+01,4,4,Cancelled,City
+02,37,37,Trip Completed,Airport
+02,57,57,No Cars Available,Airport
+02,5,5,Cancelled,City
+03,34,34,Trip Completed,Airport
+03,56,56,No Cars Available,Airport
+03,2,2,Cancelled,City
+04,78,78,Trip Completed,Airport
+04,74,74,No Cars Available,Airport
+04,51,51,Cancelled,Airport
+05,185,185,Trip Completed,Airport
+05,84,84,No Cars Available,Airport
+05,176,176,Cancelled,Airport
+06,167,167,Trip Completed,Airport
+06,86,86,No Cars Available,Airport
+06,145,145,Cancelled,Airport
+07,174,174,Trip Completed,Airport
+07,63,63,No Cars Available,Airport
+07,169,169,Cancelled,Airport
+08,155,155,Trip Completed,Airport
+08,90,90,No Cars Available,Airport
+08,178,178,Cancelled,Airport
+09,173,173,Trip Completed,Airport
+09,83,83,No Cars Available,Airport
+09,175,175,Cancelled,Airport
+10,116,116,Trip Completed,Airport
+10,65,65,No Cars Available,Airport
+10,62,62,Cancelled,Airport
+11,115,115,Trip Completed,Airport
+11,41,41,No Cars Available,Airport
+11,15,15,Cancelled,Airport
+12,121,121,Trip Completed,Airport
+12,44,44,No Cars Available,Airport
+12,19,19,Cancelled,Airport
+13,89,89,Trip Completed,Airport
+13,53,53,No Cars Available,Airport
+13,18,18,Cancelled,Airport
+14,88,88,Trip Completed,Airport
+14,37,37,No Cars Available,Airport
+14,11,11,Cancelled,Airport
+15,102,102,Trip Completed,Airport
+15,48,48,No Cars Available,Airport
+15,21,21,Cancelled,Airport
+16,91,91,Trip Completed,Airport
+16,46,46,No Cars Available,Airport
+16,22,22,Cancelled,Airport
+17,151,151,Trip Completed,Airport
+17,232,232,No Cars Available,Airport
+17,35,35,Cancelled,Airport
+18,164,164,Trip Completed,Airport
+18,322,322,No Cars Available,Airport
+18,24,24,Cancelled,Airport
+19,166,166,Trip Completed,Airport
+19,283,283,No Cars Available,Airport
+19,24,24,Cancelled,Airport
+20,161,161,Trip Completed,Airport
+20,290,290,No Cars Available,Airport
+20,41,41,Cancelled,Airport
+21,142,142,Trip Completed,Airport
+21,265,265,No Cars Available,Airport
+21,42,42,Cancelled,Airport
+22,154,154,Trip Completed,Airport
+22,138,138,No Cars Available,Airport
+22,12,12,Cancelled,Airport
+23,103,103,Trip Completed,Airport
+23,81,81,No Cars Available,Airport
+23,10,10,Cancelled,City
